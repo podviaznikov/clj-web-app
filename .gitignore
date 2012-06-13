@@ -3,3 +3,5 @@ pom.xml
 /lib/
 /classes/
 .lein-deps-sum
+clj-web-app.sublime-project
+clj-web-app.sublime-workspace

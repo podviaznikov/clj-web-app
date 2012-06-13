@@ -1,4 +1,17 @@
-clj-web-app
-===========
+# clj-web-app
 
-Test web app using Clojure
+A website written in noir. 
+
+## Usage
+
+```bash
+lein deps
+lein run
+```
+
+## License
+
+Copyright (C) 2011 Anton Podviaznikov(anton@podviaznikov.com)
+
+Distributed under the Eclipse Public License, the same as Clojure.
+
